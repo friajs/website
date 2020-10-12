@@ -4,8 +4,15 @@
       <d-row no-gutters>
         <d-col>
           <d-row align-h="start" align-v="center">
-            <d-img src="https://placeimg.com/50/50/tech" class="mr-3 ml-5" />
-            <span id="nav-title"> fria.js </span>
+            <!--            <d-img src="./assets/images/logo.svg" class="mr-3 ml-5" />-->
+            <img
+              alt="fria.js logo"
+              src="../assets/images/logo.svg"
+              width="60"
+              height="60"
+              class="ml-3"
+            />
+            <span id="nav-title" class="mt-2"> fria.js </span>
           </d-row>
         </d-col>
         <d-col no-gutters>
@@ -144,4 +151,3 @@
   border-color: #387948;
 }
 </style>
-

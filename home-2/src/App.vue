@@ -7,7 +7,7 @@
 
 <script>
 import Hero from "./sections/hero";
-import About from "./sections/about"
+import About from "./sections/about";
 
 export default {
   components: {
